@@ -92,6 +92,9 @@ bunx infinit account generate
 
 
 ## 4. adım Scritpleri çalıştırmak
+'''
+cd src/scripts
+'''
 
 **Uniswap kodlarını çalıştırıcağız. Cüzdanınınıza holesky test ağında token göndermeyi unutmayın.**
 
